@@ -17,6 +17,12 @@ get_header();
 
 	<main id="primary" class="site-main">
 
+	<h1 class="bg-red-400 text-center">Hello ms-theme!</h1>
+
+
+<h1 class="text-4xl font-bold bg-red-100">Hello another</h1>
+	
+
 		<?php
 		if ( have_posts() ) :
 
@@ -51,6 +57,9 @@ get_header();
 		?>
 
 	</main><!-- #main -->
+
+	
+
 
 <?php
 get_sidebar();
