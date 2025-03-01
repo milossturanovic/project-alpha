@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
 
 _s
@@ -68,3 +69,7 @@ $ npm install
 Now you're ready to go! The next step is easy to say, but harder to do: make an awesome WordPress theme. :)
 
 Good luck!
+=======
+# project-alpha
+Wordpress ecommerce theme with tailwind, saas , gulp
+>>>>>>> c7491ad49abba9f73f3e1eb574d1ea172dd656d3
